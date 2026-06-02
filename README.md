@@ -19,3 +19,59 @@ La diferencia era pequeña, pero suficiente para generar dudas sobre cuál era e
 Si bien el inconveniente fue detectado antes del lanzamiento oficial de gran escala, el incidente evidenció una falla de coordinación entre los procesos de comunicación y los procesos de configuración de la tienda.
 
 Más allá de la diferencia de precios, el verdadero riesgo era afectar la confianza de potenciales clientes en una etapa crítica para una marca que estaba dando sus primeros pasos.
+
+#Análisis Post-Mortem
+
+##Descripción objetiva del incidente
+
+Se detectó una inconsistencia entre los precios promocionados en redes sociales y los precios configurados en la tienda online durante la preparación de una campaña de preventa.
+
+La situación fue identificada gracias a consultas realizadas por usuarios que compararon ambas fuentes de información.
+
+El incidente fue corregido antes de una difusión masiva, minimizando su impacto comercial.
+
+##Análisis de causas
+
+Durante la revisión posterior se identificó que el problema no había sido provocado por un error individual.
+
+La causa principal fue la ausencia de un proceso de validación cruzada entre el material promocional aprobado para publicación y la configuración final de precios en la plataforma de comercio electrónico.
+
+En otras palabras, existían dos fuentes de información correctas en momentos diferentes del proyecto, pero no existía un mecanismo que garantizara que ambas permanecieran sincronizadas antes de la publicación.
+
+Este hallazgo permitió comprender que el problema estaba relacionado con el proceso de trabajo y no con el desempeño de una persona específica.
+
+##Acciones correctivas
+
+Una vez identificado el incidente, se llevaron adelante las siguientes acciones:
+
+Revisión inmediata de todos los precios publicados.
+Verificación de la configuración de productos dentro de la tienda online.
+Corrección de los valores que presentaban discrepancias.
+Actualización y validación de las piezas promocionales.
+Confirmación final de consistencia entre ambos canales antes de reanudar la campaña.
+
+Estas medidas permitieron resolver rápidamente el problema y asegurar que la información mostrada a los clientes fuera coherente.
+
+##Acciones preventivas
+
+Además de solucionar el incidente, se implementaron mejoras orientadas a evitar situaciones similares en el futuro.
+
+Entre ellas:
+
+Checklist de validación previa a campañas
+
+Antes de publicar cualquier promoción se verifica:
+
+Precio promocional.
+Precio en tienda online.
+Disponibilidad de stock.
+Enlaces de navegación.
+Fechas de vigencia.
+Condiciones de la promoción.
+Validación cruzada
+
+Se incorporó una revisión conjunta entre las personas responsables de marketing y de comercio electrónico antes de aprobar cualquier publicación.
+
+Documentación del proceso
+
+Se creó documentación interna que describe los pasos necesarios para validar futuras campañas y asegurar la consistencia de la información.
