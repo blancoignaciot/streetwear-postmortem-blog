@@ -1,4 +1,5 @@
 #Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
+
 ##Contexto
 
 Durante la preparación del lanzamiento de una nueva marca argentina de streetwear cristiano, nuestro equipo trabajaba simultáneamente en distintas áreas del proyecto. Mientras se desarrollaba la identidad visual de la marca y se preparaban las primeras colecciones, también se diseñaban campañas de comunicación para generar expectativa en redes sociales.
