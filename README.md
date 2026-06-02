@@ -1,65 +1,20 @@
-# streetwear-postmortem-blog
+#Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
+##Contexto
 
-Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
-Contexto
+Durante la preparación del lanzamiento de una nueva marca argentina de streetwear cristiano, nuestro equipo trabajaba simultáneamente en distintas áreas del proyecto. Mientras se desarrollaba la identidad visual de la marca y se preparaban las primeras colecciones, también se diseñaban campañas de comunicación para generar expectativa en redes sociales.
 
-Durante la preparación del lanzamiento de una nueva marca argentina de streetwear cristiano, el equipo desarrolló una campaña promocional para redes sociales con el objetivo de generar expectativa y captar los primeros clientes.
+Como parte de esta estrategia, se creó una promoción de preventa destinada a los primeros clientes. El objetivo era comunicar beneficios exclusivos y generar interés antes de la apertura oficial de la tienda online.
 
-La campaña incluía descuentos especiales de preventa publicados en Instagram y otras plataformas digitales. Paralelamente, se trabajaba en la configuración final de la tienda online.
+Debido a que varias tareas avanzaban en paralelo, el contenido promocional y la configuración de precios de la tienda fueron gestionados por procesos diferentes. Aunque ambos equipos compartían el mismo objetivo, no existía una instancia formal de validación final antes de publicar la campaña.
 
-Problema
+##El problema
 
-Luego de la publicación de la campaña, algunos usuarios reportaron que los precios visualizados en la tienda online no coincidían con los precios promocionados en redes sociales.
+Pocas horas después de publicar las piezas promocionales en redes sociales, surgieron las primeras consultas de usuarios interesados en los productos.
 
-Esta inconsistencia generó confusión entre potenciales clientes y aumentó la cantidad de consultas recibidas por el equipo.
+Al ingresar a la tienda online, algunos clientes observaron que los precios publicados no coincidían con los valores anunciados en la campaña de preventa.
 
-Acciones tomadas
-Descripción objetiva del incidente
+La diferencia era pequeña, pero suficiente para generar dudas sobre cuál era el precio correcto.
 
-Se detectó una diferencia entre los precios promocionados en redes sociales y los configurados en la tienda online durante la fase previa al lanzamiento oficial.
+Si bien el inconveniente fue detectado antes del lanzamiento oficial de gran escala, el incidente evidenció una falla de coordinación entre los procesos de comunicación y los procesos de configuración de la tienda.
 
-Análisis de causas
-
-Tras revisar el proceso, se identificó que no existía una validación final entre el contenido aprobado para redes sociales y la configuración definitiva de precios en la plataforma de comercio electrónico.
-
-El problema no fue causado por una persona específica, sino por la ausencia de un procedimiento formal de revisión.
-
-Acciones correctivas
-Se pausó temporalmente la campaña.
-Se verificaron todos los precios promocionados.
-Se actualizaron los valores correspondientes en la tienda online.
-Se revisaron las piezas gráficas antes de reactivar la campaña.
-Acciones preventivas
-
-Se implementó una checklist de validación previa a futuras campañas:
-
-Verificación de precios.
-Verificación de stock.
-Verificación de enlaces.
-Aprobación conjunta entre marketing y e-commerce.
-Aprendizajes
-
-Este incidente demostró que pequeños errores de coordinación pueden afectar la experiencia del cliente y la percepción de la marca.
-
-La principal lección aprendida fue la importancia de establecer procesos claros de validación antes de publicar cualquier comunicación comercial.
-
-Además, se comprendió que la documentación y las revisiones cruzadas ayudan a prevenir inconsistencias y mejoran la colaboración entre áreas.
-
-Evidencia de control de versiones
-
-Durante la documentación del incidente se utilizó Git y GitHub para registrar cambios y mantener trazabilidad.
-
-Ejemplos de commits realizados:
-
-feat: crear documentación inicial del lanzamiento
-docs: agregar análisis post-mortem
-fix: documentar corrección de discrepancia de precios
-docs: incorporar checklist de validación
-
-Reflexión sobre feedback
-
-Durante la revisión del incidente se promovió una comunicación directa y respetuosa entre los participantes.
-
-En lugar de buscar responsables individuales, el equipo se enfocó en comprender qué aspectos del proceso podían mejorarse.
-
-Este enfoque permitió recibir feedback honesto, identificar oportunidades de mejora e implementar cambios que fortalecieron la coordinación para futuras campañas.
+Más allá de la diferencia de precios, el verdadero riesgo era afectar la confianza de potenciales clientes en una etapa crítica para una marca que estaba dando sus primeros pasos.
