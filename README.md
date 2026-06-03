@@ -1,6 +1,6 @@
-#Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
+# Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
 
-##Contexto
+## Contexto
 
 Durante la preparación del lanzamiento de una nueva marca argentina de streetwear cristiano, nuestro equipo trabajaba simultáneamente en distintas áreas del proyecto. Mientras se desarrollaba la identidad visual de la marca y se preparaban las primeras colecciones, también se diseñaban campañas de comunicación para generar expectativa en redes sociales.
 
@@ -8,7 +8,7 @@ Como parte de esta estrategia, se creó una promoción de preventa destinada a l
 
 Debido a que varias tareas avanzaban en paralelo, el contenido promocional y la configuración de precios de la tienda fueron gestionados por procesos diferentes. Aunque ambos equipos compartían el mismo objetivo, no existía una instancia formal de validación final antes de publicar la campaña.
 
-##El problema
+## El problema
 
 Pocas horas después de publicar las piezas promocionales en redes sociales, surgieron las primeras consultas de usuarios interesados en los productos.
 
@@ -20,9 +20,9 @@ Si bien el inconveniente fue detectado antes del lanzamiento oficial de gran esc
 
 Más allá de la diferencia de precios, el verdadero riesgo era afectar la confianza de potenciales clientes en una etapa crítica para una marca que estaba dando sus primeros pasos.
 
-#Análisis Post-Mortem
+# Análisis Post-Mortem
 
-##Descripción objetiva del incidente
+## Descripción objetiva del incidente
 
 Se detectó una inconsistencia entre los precios promocionados en redes sociales y los precios configurados en la tienda online durante la preparación de una campaña de preventa.
 
@@ -30,7 +30,7 @@ La situación fue identificada gracias a consultas realizadas por usuarios que c
 
 El incidente fue corregido antes de una difusión masiva, minimizando su impacto comercial.
 
-##Análisis de causas
+## Análisis de causas
 
 Durante la revisión posterior se identificó que el problema no había sido provocado por un error individual.
 
@@ -40,7 +40,7 @@ En otras palabras, existían dos fuentes de información correctas en momentos d
 
 Este hallazgo permitió comprender que el problema estaba relacionado con el proceso de trabajo y no con el desempeño de una persona específica.
 
-##Acciones correctivas
+## Acciones correctivas
 
 Una vez identificado el incidente, se llevaron adelante las siguientes acciones:
 
@@ -52,7 +52,7 @@ Confirmación final de consistencia entre ambos canales antes de reanudar la cam
 
 Estas medidas permitieron resolver rápidamente el problema y asegurar que la información mostrada a los clientes fuera coherente.
 
-##Acciones preventivas
+## Acciones preventivas
 
 Además de solucionar el incidente, se implementaron mejoras orientadas a evitar situaciones similares en el futuro.
 
@@ -76,7 +76,7 @@ Documentación del proceso
 
 Se creó documentación interna que describe los pasos necesarios para validar futuras campañas y asegurar la consistencia de la información.
 
-#Uso de control de versiones
+# Uso de control de versiones
 
 Para documentar el incidente y registrar las mejoras implementadas se utilizó Git y GitHub como herramientas de control de versiones.
 
@@ -101,7 +101,7 @@ docs: agregar reflexión y lecciones aprendidas
 
 Este enfoque permitió que toda la evolución de la documentación quedara registrada y fuera fácilmente consultable por cualquier integrante del proyecto.
 
-#Aprendizajes obtenidos
+# Aprendizajes obtenidos
 
 El principal aprendizaje fue comprender que los problemas no siempre surgen por errores técnicos complejos. En muchos casos, pequeñas fallas de comunicación entre procesos pueden generar consecuencias relevantes para la experiencia del cliente.
 
@@ -109,7 +109,7 @@ También aprendimos que la documentación no debe considerarse una tarea secunda
 
 Otra lección importante fue entender que los incidentes representan oportunidades de mejora. Analizar un problema desde una perspectiva constructiva permite fortalecer procesos, mejorar la coordinación y reducir la probabilidad de que situaciones similares vuelvan a ocurrir.
 
-#Aplicación de feedback radicalmente sincero
+# Aplicación de feedback radicalmente sincero
 
 Durante el análisis del incidente se promovió una conversación abierta entre las personas involucradas.
 
@@ -121,7 +121,7 @@ Este enfoque permitió transformar un inconveniente operativo en una oportunidad
 
 La experiencia demostró que el feedback sincero es más efectivo cuando se utiliza para mejorar sistemas y procesos, en lugar de señalar errores individuales.
 
-#Conclusión
+# Conclusión
 
 La discrepancia de precios entre redes sociales y la tienda online fue un incidente menor, pero dejó enseñanzas valiosas para el crecimiento de la marca.
 
