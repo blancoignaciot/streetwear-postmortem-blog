@@ -1,6 +1,6 @@
-#Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
+# Cómo una discrepancia de precios entre redes sociales y nuestra tienda online nos ayudó a mejorar nuestros procesos
 
-##Contexto
+## Contexto
 
 Durante la preparación del lanzamiento de una nueva marca argentina de streetwear cristiano, nuestro equipo trabajó simultáneamente en distintas áreas del proyecto. Mientras se desarrollaba la identidad visual de la marca y se preparaban las primeras colecciones, también se diseñaban campañas de comunicación para generar expectativa en redes sociales.
 
@@ -8,7 +8,7 @@ Como parte de esta estrategia, se creó una promoción de prevención destinada 
 
 Debido a que varias tareas avanzaban en paralelo, el contenido promocional y la configuración de precios de la tienda fueron gestionados por procesos diferentes. Aunque ambos equipos compartían el mismo objetivo, no existía una instancia formal de validación final antes de publicar la campaña.
 
-##El problema
+## El problema
 
 Pocas horas después de publicar las piezas promocionales en redes sociales, surgieron las primeras consultas de usuarios interesados ​​en los productos.
 
@@ -20,9 +20,9 @@ Si bien el inconveniente fue detectado antes del lanzamiento oficial de gran esc
 
 Más allá de la diferencia de precios, el verdadero riesgo era afectar la confianza de clientes potenciales en una etapa crítica para una marca que estaba dando sus primeros pasos.
 
-#Análisis Post-Mortem
+# Análisis Post-Mortem
 
-##Descripción objetiva del incidente
+## Descripción objetiva del incidente
 
 Se detectó una inconsistencia entre los precios promocionados en redes sociales y los precios configurados en la tienda online durante la preparación de una campaña de prevención.
 
@@ -30,7 +30,7 @@ La situación fue identificada gracias a consultas realizadas por usuarios que c
 
 El incidente fue corregido antes de una difusión masiva, minimizando su impacto comercial.
 
-##Análisis de causas
+## Análisis de causas
 
 Durante la revisión posterior se identificó que el problema no había sido provocado por un error individual.
 
@@ -40,7 +40,7 @@ En otras palabras, existían dos fuentes de información correctas en momentos d
 
 Este hallazgo permitió comprender que el problema estaba relacionado con el proceso de trabajo y no con el desempeño de una persona específica.
 
-##Acciones correctivas
+## Acciones correctivas
 
 Una vez identificado el incidente, se llevaron adelante las siguientes acciones:
 
@@ -48,7 +48,7 @@ Revisión inmediata de todos los precios publicados. Verificación de la configu
 
 Estas medidas permitieron resolver rápidamente el problema y asegurar que la información mostrada a los clientes fuera coherente.
 
-##Acciones preventivas
+## Acciones preventivas
 
 Además de solucionar el incidente, se implementaron mejoras orientadas a evitar situaciones similares en el futuro.
 
@@ -66,7 +66,7 @@ Documentación del proceso
 
 Se creó documentación interna que describe los pasos necesarios para validar futuras campañas y asegurar la consistencia de la información.
 
-#Uso de control de versiones
+# Uso de control de versiones
 
 Para documentar el incidente y registrar las mejoras implementadas se utilizó Git y GitHub como herramientas de control de versiones.
 
@@ -88,7 +88,7 @@ docs: agregar reflexión y lecciones aprendidas
 
 Este enfoque permitió que toda la evolución de la documentación quedara registrada y fuera fácilmente consultable por cualquier integrante del proyecto.
 
-#Aprendizajes
+# Aprendizajes
 
 El principal aprendizaje fue comprender que los problemas no siempre surgen por errores técnicos complejos. En muchos casos, pequeñas fallas de comunicación entre procesos pueden generar consecuencias relevantes para la experiencia del cliente.
 
@@ -108,10 +108,28 @@ Este enfoque permitió transformar un inconveniente operativo en una oportunidad
 
 La experiencia demostró que la retroalimentación sincera es más efectiva cuando se utiliza para mejorar sistemas y procesos, en lugar de señalar errores individuales.
 
-#Conclusión
+# Conclusión
 
 La discrepancia de precios entre redes sociales y la tienda online fue un incidente menor, pero dejó enseñanzas valiosas para el crecimiento de la marca.
 
 Gracias a un análisis post-mortem constructivo, la documentación de lo ocurrido y la implementación de nuevos mecanismos de validación, fue posible convertir un problema puntual en una mejora permanente para el proyecto.
 
 Esta experiencia reforzó la importancia de la comunicación clara, la colaboración entre áreas, el uso de control de versiones y la adopción de una mentalidad de crecimiento orientada al aprendizaje continuo.
+
+# Checklist de Entrega
+
+- Blog publicado y accesible públicamente.
+- Documentación estructurada según la plantilla.
+- Evidencia de control de versiones incluida.
+- Reflexión sobre feedback radicalmente sincero incluida.
+
+## Enlaces
+
+Blog:
+https://blancoignaciot.github.io/streetwear-postmortem-blog/
+
+Repositorio:
+https://github.com/blancoignaciot/streetwear-postmortem-blog
+
+Commits:
+https://github.com/blancoignaciot/streetwear-postmortem-blog/commits/main
