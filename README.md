@@ -75,3 +75,36 @@ Se incorporó una revisión conjunta entre las personas responsables de marketin
 Documentación del proceso
 
 Se creó documentación interna que describe los pasos necesarios para validar futuras campañas y asegurar la consistencia de la información.
+
+#Uso de control de versiones
+
+Para documentar el incidente y registrar las mejoras implementadas se utilizó Git y GitHub como herramientas de control de versiones.
+
+El uso de estas herramientas permitió:
+
+Mantener un historial de cambios.
+Registrar decisiones importantes.
+Documentar aprendizajes.
+Facilitar futuras revisiones.
+
+Algunos ejemplos de commits realizados durante el proceso fueron:
+
+feat: crear documentación inicial del lanzamiento
+
+docs: agregar análisis post-mortem del incidente
+
+fix: documentar corrección de discrepancia de precios
+
+docs: incorporar checklist de validación de campañas
+
+docs: agregar reflexión y lecciones aprendidas
+
+Este enfoque permitió que toda la evolución de la documentación quedara registrada y fuera fácilmente consultable por cualquier integrante del proyecto.
+
+#Aprendizajes obtenidos
+
+El principal aprendizaje fue comprender que los problemas no siempre surgen por errores técnicos complejos. En muchos casos, pequeñas fallas de comunicación entre procesos pueden generar consecuencias relevantes para la experiencia del cliente.
+
+También aprendimos que la documentación no debe considerarse una tarea secundaria. Cuando los procedimientos están documentados y son accesibles para todos los participantes, resulta mucho más sencillo detectar inconsistencias antes de que lleguen al público.
+
+Otra lección importante fue entender que los incidentes representan oportunidades de mejora. Analizar un problema desde una perspectiva constructiva permite fortalecer procesos, mejorar la coordinación y reducir la probabilidad de que situaciones similares vuelvan a ocurrir.
