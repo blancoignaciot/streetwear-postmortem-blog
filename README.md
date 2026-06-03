@@ -108,3 +108,23 @@ El principal aprendizaje fue comprender que los problemas no siempre surgen por 
 También aprendimos que la documentación no debe considerarse una tarea secundaria. Cuando los procedimientos están documentados y son accesibles para todos los participantes, resulta mucho más sencillo detectar inconsistencias antes de que lleguen al público.
 
 Otra lección importante fue entender que los incidentes representan oportunidades de mejora. Analizar un problema desde una perspectiva constructiva permite fortalecer procesos, mejorar la coordinación y reducir la probabilidad de que situaciones similares vuelvan a ocurrir.
+
+#Aplicación de feedback radicalmente sincero
+
+Durante el análisis del incidente se promovió una conversación abierta entre las personas involucradas.
+
+El objetivo no fue identificar culpables, sino comprender qué aspectos del proceso podían optimizarse.
+
+Se compartió feedback directo sobre los puntos débiles detectados y, al mismo tiempo, se mantuvo una comunicación respetuosa enfocada en la mejora continua.
+
+Este enfoque permitió transformar un inconveniente operativo en una oportunidad de aprendizaje colectivo.
+
+La experiencia demostró que el feedback sincero es más efectivo cuando se utiliza para mejorar sistemas y procesos, en lugar de señalar errores individuales.
+
+#Conclusión
+
+La discrepancia de precios entre redes sociales y la tienda online fue un incidente menor, pero dejó enseñanzas valiosas para el crecimiento de la marca.
+
+Gracias a un análisis post-mortem constructivo, la documentación de lo ocurrido y la implementación de nuevos mecanismos de validación, fue posible convertir un problema puntual en una mejora permanente para el proyecto.
+
+Esta experiencia reforzó la importancia de la comunicación clara, la colaboración entre áreas, el uso de control de versiones y la adopción de una mentalidad de crecimiento orientada al aprendizaje continuo.
