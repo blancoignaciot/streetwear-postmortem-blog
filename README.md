@@ -128,3 +128,21 @@ La discrepancia de precios entre redes sociales y la tienda online fue un incide
 Gracias a un análisis post-mortem constructivo, la documentación de lo ocurrido y la implementación de nuevos mecanismos de validación, fue posible convertir un problema puntual en una mejora permanente para el proyecto.
 
 Esta experiencia reforzó la importancia de la comunicación clara, la colaboración entre áreas, el uso de control de versiones y la adopción de una mentalidad de crecimiento orientada al aprendizaje continuo.
+
+# Checklist de Entrega
+
+- Blog publicado y accesible públicamente.
+- Documentación estructurada según la plantilla.
+- Evidencia de control de versiones incluida.
+- Reflexión sobre feedback radicalmente sincero incluida.
+
+## Enlaces
+
+Blog:
+https://blancoignaciot.github.io/streetwear-postmortem-blog/
+
+Repositorio:
+https://github.com/blancoignaciot/streetwear-postmortem-blog
+
+Commits:
+https://github.com/blancoignaciot/streetwear-postmortem-blog/commits/main
